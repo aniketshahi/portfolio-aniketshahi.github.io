@@ -1,10 +1,37 @@
-# portfolio
-This project is a personal website for Me, a B.Tech-M.Tech (Integrated) Computer Science and Engineering student. The website serves as a digital portfolio, showcasing my skills, interests, and contact information. Here are the key sections:
-Header: The header contains the navigation bar with links to different sections of the website. The brand name "Aniket Shahi" is also part of the header.
-Hero Section: This is the introductory section where Aniket greets visitors and provides a link to his portfolio.
-Interests Section: This section showcases Aniket's interests, which include web development, video games, photography, traveling, and learning new languages. Each interest is accompanied by a relevant image.
-About Section: Here, Aniket shares a bit about himself, his academic background, and his love for travel and learning about different cultures. There's also a link to download his CV.
-Skills Section: This section is dedicated to highlighting Aniket's technical skills. The skills are represented visually, presumably with progress bars, although the specific skills are not included in the provided code.
-Contact Section: This section provides Aniket's email and physical address. It also includes icons for quick visual recognition.
-Footer: The footer contains links to Aniket's Instagram and LinkedIn profiles for further connection. It also includes a copyright notice.
-The website is built using HTML and CSS, and it follows a modern, clean design. It serves as a comprehensive digital portfolio, providing a snapshot of Aniket's professional and personal life.
+
+# Aniket Shahi's PortFolio Website
+
+Welcome to my personal website! This site serves as a digital portfolio, offering a glimpse into my academic journey, technical skills, and personal interests. Feel free to explore the various sections to get to know me better.
+
+
+
+
+
+
+
+
+
+
+
+## Features
+
+- Responsive Design
+- Interactive Navigation
+- Dynamic Interests Section
+- Animated Skills Representation
+- Downloadable CV
+- Contact Form
+- Social Media Integration
+
+## Author
+
+- [Aniket Shahi](https://www.github.com/aniket0608)
+
+
+## License
+License
+
+This project is open-source and available under the [GNU Affero General Public License v3.0](https://github.com/aniket0608/Ani_Portfolio/blob/main/LICENSE.md)
+. Feel free to use, modify, and distribute as per the license terms. If you find this project helpful, consider giving it a star on GitHub.
+
+
